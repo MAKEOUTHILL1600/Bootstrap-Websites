@@ -1,0 +1,105 @@
+.c_logo {
+    background-color: #8ec8e7;
+}
+
+/*.c_butoane {
+    padding-left: 16%;
+}
+
+.c_logo {
+    padding-left: 15%;
+}*/
+
+.active-nav-item {
+    background-color: white !important;
+    color: black !important;
+    font-size: 13px;
+}
+
+.nav-item a{
+    color: white;
+    transition: none;
+    font-size: 13px;
+}
+
+.welcome {
+    font-family:"Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+    color: gray;
+    background-color: white;
+}
+
+.card1 {
+    margin-top: 2%;
+    font-size: 13px;
+    height: 100%;
+    width: 100%;
+
+}
+
+.card2 {
+    margin-top: 2%;
+    font-size: 13px;
+    height: 100%;
+    width: 100%;
+    background-color: gray;
+    color: white;
+}
+
+.header_card {
+    font-size: 24px;
+    font-family: "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+}
+
+.paragraf_card {
+    font-size: 16px;
+    font-family: "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+}
+
+.continuarea {
+    text-decoration: none;
+    font-size: 16PX;
+}
+
+.subtitlu_card {
+    font-size: 22px;
+    font-family: "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+}
+
+.paragraf_card_jos {
+    font-size: 16px;
+    font-family: "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+}
+
+.subsol_main {
+    margin-top: 2%;
+}
+
+.subsol {
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.p_subsol {
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.subtitluri_pagini {
+    font-family: "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+}
+
+.paragrafe_pagini {
+    font-family: "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+}
+
+.nav-item a {
+    white-space: nowrap;
+}
+
+.active-nav-item {
+    white-space: nowrap;
+}
+
+.leenk {
+    text-decoration: none;
+}
